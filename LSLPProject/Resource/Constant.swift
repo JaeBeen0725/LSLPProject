@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+enum Constant {
+    static let line3Horizontal = "line.3.horizontal"
+    static let magnifyingglass = "magnifyingglass"
+    
+}
